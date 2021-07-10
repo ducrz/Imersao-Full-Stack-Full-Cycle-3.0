@@ -1,0 +1,7 @@
+Imersão Full Stack Full Cycle 3.0
+https://evento.imersao.fullcycle.com.br
+
+Aula 05
+
+Integração e Dashboards com Kfka Connect. Elasticsearch e Kibana.
+
