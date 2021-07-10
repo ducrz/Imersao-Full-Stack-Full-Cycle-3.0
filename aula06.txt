@@ -1,0 +1,7 @@
+Imersão Full Stack Full Cycle 3.0
+https://evento.imersao.fullcycle.com.br
+
+Aula 06
+
+Orquestração de containers com Docker e Kubernetes
+
